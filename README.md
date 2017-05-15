@@ -1,2 +1,2 @@
 # Ruby_stud
-Ruby_study_lesson
+Ruby study lesson
